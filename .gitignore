@@ -175,3 +175,7 @@ cython_debug/
 
 Anaconda3-2022.05-Linux-x86_64.sh
 /workspaces/MLOps-Zoomcamp/Anaconda3-2022.05-Linux-x86_64.sh
+
+*/data/
+*.csv
+*.parquet
